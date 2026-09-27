@@ -73,7 +73,28 @@ Sitio web entregado por GrayFoxGFX, con trabajo continuo después del lanzamient
 
 <sub><b>LAS HERRAMIENTAS CAMBIAN. EL CRITERIO PERMANECE.</b></sub>
 
-![Next.js](https://img.shields.io/badge/Next.js-10151C?style=flat-square&labelColor=10151C&color=10151C) ![React](https://img.shields.io/badge/React-10151C?style=flat-square&labelColor=10151C&color=10151C) ![.NET](https://img.shields.io/badge/.NET-10151C?style=flat-square&labelColor=10151C&color=10151C) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-10151C?style=flat-square&labelColor=10151C&color=10151C) ![Azure](https://img.shields.io/badge/Azure-10151C?style=flat-square&labelColor=10151C&color=10151C) ![Docker](https://img.shields.io/badge/Docker-10151C?style=flat-square&labelColor=10151C&color=10151C) ![Cloudflare](https://img.shields.io/badge/Cloudflare-10151C?style=flat-square&labelColor=10151C&color=10151C)
+![.NET](https://img.shields.io/badge/.NET-1F2937?style=flat-square) ![C#](https://img.shields.io/badge/C%23-1F2937?style=flat-square) ![Angular](https://img.shields.io/badge/Angular-1F2937?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-1F2937?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-1F2937?style=flat-square) ![React](https://img.shields.io/badge/React-1F2937?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL_Server-1F2937?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2937?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-1F2937?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-1F2937?style=flat-square)
+
+<sub>Respaldado por más de 15 años de experiencia empresarial con .NET y Angular en proyectos de aerolíneas, banca, seguros, retail y e-commerce.</sub>
+
+<details>
+<summary><b>Todas las herramientas y tecnologías</b></summary>
+<br />
+
+| Área | Herramientas |
+|:--|:--|
+| **Lenguajes** | C# · TypeScript · JavaScript · SQL · Python · Java · C / C++ · VB.NET · PowerShell · Bash · HTML5 · CSS |
+| **Frontend** | Angular (2 → 19+) · AngularJS · NgRx (Signals) · RxJS · Next.js · React · Vue.js · Backbone.js · Knockout.js · jQuery · D3.js · Tailwind CSS · shadcn/ui · Diseño responsivo |
+| **Backend y APIs** | ASP.NET Core (.NET 8) · .NET Framework · ASP.NET MVC · Razor · Web Forms · Entity Framework · LINQ · REST · GraphQL · WCF / SOAP · SignalR · JWT · Auth0 · Windows Services · Windows Forms |
+| **Datos** | SQL Server · PostgreSQL · MySQL · Cosmos DB · MongoDB · SSIS / ETL · Procedimientos almacenados y optimización de consultas |
+| **Azure y nube** | App Service · Functions · Service Bus · Blob y Table Storage · Key Vault · Application Insights · SignalR Service · Logic Apps · Máquinas virtuales · Cloudflare Tunnel |
+| **DevOps** | Azure DevOps Pipelines · GitHub Actions · Jenkins · Docker · Docker Compose · Terraform · Caddy · Grafana · Linux · Windows Server · Git (GitHub, Bitbucket, Azure Repos) |
+| **Pruebas y calidad** | xUnit · NUnit · NSubstitute · Moq · Shouldly · Testcontainers · Jasmine · Vitest · Testing Library · Playwright · SonarQube · Fortify · Postman · SoapUI · Fiddler |
+| **Automatización e IA** | Flujos de agentes de IA con n8n · GitHub Copilot · ChatGPT · Excel VBA y macros |
+| **Integraciones** | SAP (SD, MM, ABAP RFC / BAPI) · PayPal · Banxico CEP / SPEI · RingCentral · E-Verify |
+| **Prácticas** | SOLID y patrones de diseño · Agile / Scrum · Feature flags · Liderazgo técnico · Mentoría |
+
+</details>
 
 <br />
 
