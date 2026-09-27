@@ -6,7 +6,7 @@
 
 [![grayfoxgfx.com](https://img.shields.io/badge/grayfoxgfx.com-0B0F14?style=for-the-badge&logo=googlechrome&logoColor=3B82F6)](https://grayfoxgfx.com/en)
 [![Let's talk](https://img.shields.io/badge/Let's_talk_→-2565D7?style=for-the-badge)](https://grayfoxgfx.com/en/contact)
-[![contacto@grayfoxgfx.com](https://img.shields.io/badge/contacto@grayfoxgfx.com-10151C?style=for-the-badge)](mailto:contacto@grayfoxgfx.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-10151C?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/529611965168?text=Hi%20GrayFoxGFX%2C%20I%27d%20like%20to%20talk%20about%20a%20project.)
 
 **English** · [Español](README.es.md)
 
