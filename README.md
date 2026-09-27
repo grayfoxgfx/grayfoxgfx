@@ -1,78 +1,126 @@
 <div align="center">
 
-<img src="assets/fox-mark.png" alt="GrayFoxGFX fox logo" width="120" />
+<a href="https://grayfoxgfx.com/en"><img src="assets/banner-en.png" alt="GrayFoxGFX — Digital solutions studio. Good ideas. Real solutions." width="100%" /></a>
 
-# GrayFoxGFX
+<br />
 
-**Digital solutions studio · Web · Software · Automation · Cloud**
+[![grayfoxgfx.com](https://img.shields.io/badge/grayfoxgfx.com-0B0F14?style=for-the-badge&logo=googlechrome&logoColor=3B82F6)](https://grayfoxgfx.com/en)
+[![Let's talk](https://img.shields.io/badge/Let's_talk_→-2565D7?style=for-the-badge)](https://grayfoxgfx.com/en/contact)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-10151C?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/529611965168?text=Hi%20GrayFoxGFX%2C%20I%27d%20like%20to%20talk%20about%20a%20project.)
 
-*Good ideas. Real solutions.* — *Buenas ideas. Soluciones reales.*
-
-[![Website](https://img.shields.io/badge/grayfoxgfx.com-0B0F14?style=for-the-badge&logo=googlechrome&logoColor=3B82F6)](https://grayfoxgfx.com)
-[![Email](https://img.shields.io/badge/contacto@grayfoxgfx.com-1F2937?style=for-the-badge&logo=maildotru&logoColor=3B82F6)](mailto:contacto@grayfoxgfx.com)
+**English** · [Español](README.es.md)
 
 </div>
 
----
+<br />
 
-We build websites, software, and automations that connect your business to what comes next —
-from the first idea to the final detail, and beyond launch.
+<sub><b>● &nbsp;WHAT WE DO</b></sub>
 
-## 🛠️ What we do
+## Technology with purpose.
 
-| | Service | |
-|---|---|---|
-| 🌐 | **Web development** | Business websites · E-commerce · Portals |
-| 🧩 | **Custom software** | Business systems · Dashboards · APIs |
-| 🤖 | **Automation & AI** | n8n workflows · Integrations · WhatsApp · AI |
-| ☁️ | **Cloud & DevOps** | Azure · Docker · CI/CD |
-| 🔧 | **Ongoing support** | Maintenance · Updates · Monitoring |
+Every business has a different challenge. We build the solution it actually needs.
 
-## 🚀 Featured work
+| | Service | | |
+|:--|:--|:--|:--|
+| `01` | **Web development** | Make your first impression count. Fast, accessible websites built to connect. | <sub>Business websites · E-commerce · Portals</sub> |
+| `02` | **Custom software** | Tools that adapt to your operation, not the other way around. | <sub>Business systems · Dashboards · APIs</sub> |
+| `03` | **Automation & AI** | Fewer repetitive tasks. More time to move your business forward. | <sub>Workflows · Integrations · Artificial intelligence</sub> |
+| `04` | **Cloud & DevOps** | A solid foundation to launch, operate, and keep growing. | <sub>Azure · Docker · CI/CD</sub> |
+| `05` | **Ongoing support** | Your project keeps evolving. We stay with you beyond launch. | <sub>Maintenance · Updates · Monitoring</sub> |
 
-- **[Marlene Solís Bienes Raíces](https://marlenesolis.com)** — Real estate platform connecting properties, people, and new opportunities: property search by transaction type, location, and price. *Delivered · Ongoing support*
-- **[Agente Carranza](https://agentecarranza.mx)** — Website delivered by GrayFoxGFX, with ongoing work after launch. *Delivered · Ongoing support*
+<br />
 
-## 🧰 Stack
+<sub><b>● &nbsp;FEATURED WORK</b></sub>
 
-**Frontend**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+## From challenge to solution.
 
-**Backend & data**
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Cloud, DevOps & automation**
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+<a href="https://marlenesolis.com"><img src="assets/work-marlenesolis.webp" alt="Marlene Solís Bienes Raíces website screenshot" width="100%" /></a>
 
-> Tools change. Good judgment stays.
+<sub>REAL ESTATE PLATFORM</sub><br />
+**[Marlene Solís Bienes Raíces](https://marlenesolis.com)**<br />
+A real estate platform connecting properties, people, and new opportunities. Property search by transaction type, location, and price, with real estate service information and contact options.
 
-## 🧭 How we work
+<sub>Delivered · Ongoing support</sub>
 
-**Discover** → **Design** → **Build** → **Evolve**
+</td>
+<td width="50%" valign="top">
 
-We understand your business and the problem to solve, shape the experience with a concrete plan,
-develop and test every detail, then launch with you and support your next step.
+<a href="https://agentecarranza.mx"><img src="assets/work-agentecarranza.webp" alt="Agente Carranza website screenshot" width="100%" /></a>
 
-## 🧪 GrayFox Labs
+<sub>WEBSITE</sub><br />
+**[Agente Carranza](https://agentecarranza.mx)**<br />
+Website delivered by GrayFoxGFX, with ongoing work after launch.
 
-Our space for exploring ideas, prototypes, and artificial intelligence. New experiments coming soon.
+<sub>Delivered · Ongoing support</sub>
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<sub><b>● &nbsp;HOW WE WORK</b></sub>
+
+## A clear process. From start to finish.
+
+| `01` Discover | `02` Design | `03` Build | `04` Evolve |
+|:--|:--|:--|:--|
+| We understand your business, your goals, and the problem to solve. | We shape the experience and define a concrete plan. | We develop, test, and take care of the details. | We launch with you and support your next step. |
+
+<sub><b>TOOLS CHANGE. GOOD JUDGMENT STAYS.</b></sub>
+
+![.NET](https://img.shields.io/badge/.NET-1F2937?style=flat-square) ![C#](https://img.shields.io/badge/C%23-1F2937?style=flat-square) ![Angular](https://img.shields.io/badge/Angular-1F2937?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-1F2937?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-1F2937?style=flat-square) ![React](https://img.shields.io/badge/React-1F2937?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL_Server-1F2937?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2937?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-1F2937?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-1F2937?style=flat-square)
+
+<sub>Backed by 15+ years of enterprise .NET and Angular work across airline, banking, insurance, retail, and e-commerce projects.</sub>
+
+<details>
+<summary><b>All tools & technologies</b></summary>
+<br />
+
+| Area | Tools |
+|:--|:--|
+| **Languages** | C# · TypeScript · JavaScript · SQL · Python · Java · C / C++ · VB.NET · PowerShell · Bash · HTML5 · CSS |
+| **Frontend** | Angular (2 → 19+) · AngularJS · NgRx (Signals) · RxJS · Next.js · React · Vue.js · Backbone.js · Knockout.js · jQuery · D3.js · Tailwind CSS · shadcn/ui · Responsive design |
+| **Backend & APIs** | ASP.NET Core (.NET 8) · .NET Framework · ASP.NET MVC · Razor · Web Forms · Entity Framework · LINQ · REST · GraphQL · WCF / SOAP · SignalR · JWT · Auth0 · Windows Services · Windows Forms |
+| **Data** | SQL Server · PostgreSQL · MySQL · Cosmos DB · MongoDB · SSIS / ETL · Stored procedures & query optimization |
+| **Azure & cloud** | App Service · Functions · Service Bus · Blob & Table Storage · Key Vault · Application Insights · SignalR Service · Logic Apps · Virtual Machines · Cloudflare Tunnel |
+| **DevOps** | Azure DevOps Pipelines · GitHub Actions · Jenkins · Docker · Docker Compose · Terraform · Caddy · Grafana · Linux · Windows Server · Git (GitHub, Bitbucket, Azure Repos) |
+| **Testing & quality** | xUnit · NUnit · NSubstitute · Moq · Shouldly · Testcontainers · Jasmine · Vitest · Testing Library · Playwright · SonarQube · Fortify · Postman · SoapUI · Fiddler |
+| **Automation & AI** | n8n AI agent workflows · GitHub Copilot · ChatGPT · Excel VBA & macros |
+| **Integrations** | SAP (SD, MM, ABAP RFC / BAPI) · PayPal · Banxico CEP / SPEI · RingCentral · E-Verify |
+| **Practices** | SOLID & design patterns · Agile / Scrum · Feature flags · Technical leadership · Mentoring |
+
+</details>
+
+<br />
+
+<sub><b>● &nbsp;WHAT COMES NEXT</b></sub>
+
+## Curiosity is part of the work.
+
+**GrayFox Labs** is our space for exploring ideas, prototypes, and artificial intelligence. New experiments coming soon. <sub>`EXPLORING`</sub>
+
+<br />
 
 ---
 
 <div align="center">
 
-**Your next chapter starts with an idea.** [Let's talk →](https://grayfoxgfx.com)
+<sub><b>● &nbsp;LET'S BUILD SOMETHING</b></sub>
+
+### Your next chapter starts with an idea.
+
+Tell us what you have in mind. Let's talk about making it happen.
+
+[![Tell us about your project](https://img.shields.io/badge/Tell_us_about_your_project_→-2565D7?style=for-the-badge)](https://grayfoxgfx.com/en/contact)
+
+<br />
+
+<img src="assets/fox-mark.png" alt="GrayFoxGFX fox logo" width="40" />
 
 <sub>Thoughtful technology. Meaningful solutions.</sub>
 

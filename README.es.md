@@ -1,0 +1,127 @@
+<div align="center">
+
+<a href="https://grayfoxgfx.com/es"><img src="assets/banner-es.png" alt="GrayFoxGFX — Estudio de soluciones digitales. Buenas ideas. Soluciones reales." width="100%" /></a>
+
+<br />
+
+[![grayfoxgfx.com](https://img.shields.io/badge/grayfoxgfx.com-0B0F14?style=for-the-badge&logo=googlechrome&logoColor=3B82F6)](https://grayfoxgfx.com/es)
+[![Hablemos](https://img.shields.io/badge/Hablemos_→-2565D7?style=for-the-badge)](https://grayfoxgfx.com/es/contact)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-10151C?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/529611965168?text=Hola%20GrayFoxGFX%2C%20me%20gustar%C3%ADa%20platicar%20sobre%20un%20proyecto.)
+
+[English](README.md) · **Español**
+
+</div>
+
+<br />
+
+<sub><b>● &nbsp;LO QUE HACEMOS</b></sub>
+
+## Tecnología con propósito.
+
+Cada negocio tiene un reto distinto. Construimos la solución que realmente necesita.
+
+| | Servicio | | |
+|:--|:--|:--|:--|
+| `01` | **Desarrollo web** | Tu mejor primera impresión. Sitios rápidos, accesibles y hechos para conectar. | <sub>Sitios corporativos · E-commerce · Portales</sub> |
+| `02` | **Software a medida** | Herramientas que se adaptan a tu operación, y no al revés. | <sub>Sistemas · Dashboards · APIs</sub> |
+| `03` | **Automatización & IA** | Menos tareas repetitivas. Más tiempo para hacer crecer tu negocio. | <sub>Workflows · Integraciones · Inteligencia artificial</sub> |
+| `04` | **Cloud & DevOps** | Una base sólida para lanzar, operar y seguir creciendo. | <sub>Azure · Docker · CI/CD</sub> |
+| `05` | **Soporte continuo** | Tu proyecto sigue evolucionando. Te acompañamos después del lanzamiento. | <sub>Mantenimiento · Actualizaciones · Monitoreo</sub> |
+
+<br />
+
+<sub><b>● &nbsp;PROYECTOS DESTACADOS</b></sub>
+
+## Del reto a la solución.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://marlenesolis.com"><img src="assets/work-marlenesolis.webp" alt="Captura del sitio web de Marlene Solís Bienes Raíces" width="100%" /></a>
+
+<sub>PLATAFORMA INMOBILIARIA</sub><br />
+**[Marlene Solís Bienes Raíces](https://marlenesolis.com)**<br />
+Una plataforma inmobiliaria como punto de encuentro entre propiedades, personas y nuevas oportunidades. Búsqueda de propiedades por operación, ubicación y precio, con información de servicios inmobiliarios y opciones de contacto.
+
+<sub>Entregado · Soporte continuo</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://agentecarranza.mx"><img src="assets/work-agentecarranza.webp" alt="Captura del sitio web de Agente Carranza" width="100%" /></a>
+
+<sub>SITIO WEB</sub><br />
+**[Agente Carranza](https://agentecarranza.mx)**<br />
+Sitio web entregado por GrayFoxGFX, con trabajo continuo después del lanzamiento.
+
+<sub>Entregado · Soporte continuo</sub>
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<sub><b>● &nbsp;CÓMO TRABAJAMOS</b></sub>
+
+## Un proceso claro. De principio a fin.
+
+| `01` Escuchamos | `02` Diseñamos | `03` Construimos | `04` Evolucionamos |
+|:--|:--|:--|:--|
+| Entendemos tu negocio, tus objetivos y lo que necesitas resolver. | Damos forma a la experiencia y definimos un plan concreto. | Desarrollamos, probamos y cuidamos cada detalle. | Lanzamos contigo y acompañamos el siguiente paso. |
+
+<sub><b>LAS HERRAMIENTAS CAMBIAN. EL CRITERIO PERMANECE.</b></sub>
+
+![.NET](https://img.shields.io/badge/.NET-1F2937?style=flat-square) ![C#](https://img.shields.io/badge/C%23-1F2937?style=flat-square) ![Angular](https://img.shields.io/badge/Angular-1F2937?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-1F2937?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-1F2937?style=flat-square) ![React](https://img.shields.io/badge/React-1F2937?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL_Server-1F2937?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2937?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-1F2937?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-1F2937?style=flat-square)
+
+<sub>Respaldado por más de 15 años de experiencia empresarial con .NET y Angular en proyectos de aerolíneas, banca, seguros, retail y e-commerce.</sub>
+
+<details>
+<summary><b>Todas las herramientas y tecnologías</b></summary>
+<br />
+
+| Área | Herramientas |
+|:--|:--|
+| **Lenguajes** | C# · TypeScript · JavaScript · SQL · Python · Java · C / C++ · VB.NET · PowerShell · Bash · HTML5 · CSS |
+| **Frontend** | Angular (2 → 19+) · AngularJS · NgRx (Signals) · RxJS · Next.js · React · Vue.js · Backbone.js · Knockout.js · jQuery · D3.js · Tailwind CSS · shadcn/ui · Diseño responsivo |
+| **Backend y APIs** | ASP.NET Core (.NET 8) · .NET Framework · ASP.NET MVC · Razor · Web Forms · Entity Framework · LINQ · REST · GraphQL · WCF / SOAP · SignalR · JWT · Auth0 · Windows Services · Windows Forms |
+| **Datos** | SQL Server · PostgreSQL · MySQL · Cosmos DB · MongoDB · SSIS / ETL · Procedimientos almacenados y optimización de consultas |
+| **Azure y nube** | App Service · Functions · Service Bus · Blob y Table Storage · Key Vault · Application Insights · SignalR Service · Logic Apps · Máquinas virtuales · Cloudflare Tunnel |
+| **DevOps** | Azure DevOps Pipelines · GitHub Actions · Jenkins · Docker · Docker Compose · Terraform · Caddy · Grafana · Linux · Windows Server · Git (GitHub, Bitbucket, Azure Repos) |
+| **Pruebas y calidad** | xUnit · NUnit · NSubstitute · Moq · Shouldly · Testcontainers · Jasmine · Vitest · Testing Library · Playwright · SonarQube · Fortify · Postman · SoapUI · Fiddler |
+| **Automatización e IA** | Flujos de agentes de IA con n8n · GitHub Copilot · ChatGPT · Excel VBA y macros |
+| **Integraciones** | SAP (SD, MM, ABAP RFC / BAPI) · PayPal · Banxico CEP / SPEI · RingCentral · E-Verify |
+| **Prácticas** | SOLID y patrones de diseño · Agile / Scrum · Feature flags · Liderazgo técnico · Mentoría |
+
+</details>
+
+<br />
+
+<sub><b>● &nbsp;EL SIGUIENTE PASO</b></sub>
+
+## La curiosidad también es parte del trabajo.
+
+**GrayFox Labs** es el espacio para explorar ideas, prototipos e inteligencia artificial. Nuevos experimentos, próximamente. <sub>`EN EXPLORACIÓN`</sub>
+
+<br />
+
+---
+
+<div align="center">
+
+<sub><b>● &nbsp;CONSTRUYAMOS ALGO</b></sub>
+
+### Tu próximo paso empieza con una idea.
+
+Cuéntanos qué tienes en mente. Hablemos de cómo hacerlo realidad.
+
+[![Cuéntanos tu proyecto](https://img.shields.io/badge/Cuéntanos_tu_proyecto_→-2565D7?style=for-the-badge)](https://grayfoxgfx.com/es/contact)
+
+<br />
+
+<img src="assets/fox-mark.png" alt="Logo de GrayFoxGFX" width="40" />
+
+<sub>Tecnología con intención. Soluciones con impacto.</sub>
+
+</div>
