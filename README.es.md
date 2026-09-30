@@ -4,9 +4,9 @@
 
 <br />
 
-[![grayfoxgfx.com](https://img.shields.io/badge/grayfoxgfx.com-0B0F14?style=for-the-badge&logo=googlechrome&logoColor=3B82F6)](https://grayfoxgfx.com/es)
+[![grayfoxgfx.com](assets/badge-website.svg)](https://grayfoxgfx.com/es)
 [![Hablemos](https://img.shields.io/badge/Hablemos_→-2565D7?style=for-the-badge)](https://grayfoxgfx.com/es/contact)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-10151C?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/529611965168?text=Hola%20GrayFoxGFX%2C%20me%20gustar%C3%ADa%20platicar%20sobre%20un%20proyecto.)
+[![WhatsApp](assets/badge-whatsapp.svg)](https://wa.me/529611965168?text=Hola%20GrayFoxGFX%2C%20me%20gustar%C3%ADa%20platicar%20sobre%20un%20proyecto.)
 
 [English](README.md) · **Español**
 
