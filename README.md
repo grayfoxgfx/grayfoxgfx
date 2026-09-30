@@ -4,9 +4,9 @@
 
 <br />
 
-[![grayfoxgfx.com](assets/badge-website.svg)](https://grayfoxgfx.com/en)
-[![Let's talk](https://img.shields.io/badge/Let's_talk_→-2565D7?style=for-the-badge)](https://grayfoxgfx.com/en/contact)
-[![WhatsApp](assets/badge-whatsapp.svg)](https://wa.me/529611965168?text=Hi%20GrayFoxGFX%2C%20I%27d%20like%20to%20talk%20about%20a%20project.)
+[![grayfoxgfx.com](assets/badges/website.svg)](https://grayfoxgfx.com/en)
+[![Let's talk](assets/badges/let-s-talk.svg)](https://grayfoxgfx.com/en/contact)
+[![WhatsApp](assets/badges/whatsapp.svg)](https://wa.me/529611965168?text=Hi%20GrayFoxGFX%2C%20I%27d%20like%20to%20talk%20about%20a%20project.)
 
 **English** · [Español](README.es.md)
 
@@ -73,7 +73,7 @@ Website delivered by GrayFoxGFX, with ongoing work after launch.
 
 <sub><b>TOOLS CHANGE. GOOD JUDGMENT STAYS.</b></sub>
 
-![.NET](https://img.shields.io/badge/.NET-1F2937?style=flat-square) ![C#](https://img.shields.io/badge/C%23-1F2937?style=flat-square) ![Angular](https://img.shields.io/badge/Angular-1F2937?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-1F2937?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-1F2937?style=flat-square) ![React](https://img.shields.io/badge/React-1F2937?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL_Server-1F2937?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2937?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-1F2937?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-1F2937?style=flat-square)
+![.NET](assets/badges/net.svg) ![C#](assets/badges/csharp.svg) ![Angular](assets/badges/angular.svg) ![TypeScript](assets/badges/typescript.svg) ![Next.js](assets/badges/next-js.svg) ![React](assets/badges/react.svg) ![SQL Server](assets/badges/sql-server.svg) ![PostgreSQL](assets/badges/postgresql.svg) ![Azure](assets/badges/azure.svg) ![Docker](assets/badges/docker.svg)
 
 <sub>Backed by 15+ years of enterprise .NET and Angular work across airline, banking, insurance, retail, and e-commerce projects.</sub>
 
@@ -116,7 +116,7 @@ Website delivered by GrayFoxGFX, with ongoing work after launch.
 
 Tell us what you have in mind. Let's talk about making it happen.
 
-[![Tell us about your project](https://img.shields.io/badge/Tell_us_about_your_project_→-2565D7?style=for-the-badge)](https://grayfoxgfx.com/en/contact)
+[![Tell us about your project](assets/badges/tell-us-about-your-project.svg)](https://grayfoxgfx.com/en/contact)
 
 <br />
 

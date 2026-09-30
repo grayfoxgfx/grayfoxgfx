@@ -4,9 +4,9 @@
 
 <br />
 
-[![grayfoxgfx.com](assets/badge-website.svg)](https://grayfoxgfx.com/es)
-[![Hablemos](https://img.shields.io/badge/Hablemos_→-2565D7?style=for-the-badge)](https://grayfoxgfx.com/es/contact)
-[![WhatsApp](assets/badge-whatsapp.svg)](https://wa.me/529611965168?text=Hola%20GrayFoxGFX%2C%20me%20gustar%C3%ADa%20platicar%20sobre%20un%20proyecto.)
+[![grayfoxgfx.com](assets/badges/website.svg)](https://grayfoxgfx.com/es)
+[![Hablemos](assets/badges/hablemos.svg)](https://grayfoxgfx.com/es/contact)
+[![WhatsApp](assets/badges/whatsapp.svg)](https://wa.me/529611965168?text=Hola%20GrayFoxGFX%2C%20me%20gustar%C3%ADa%20platicar%20sobre%20un%20proyecto.)
 
 [English](README.md) · **Español**
 
@@ -73,7 +73,7 @@ Sitio web entregado por GrayFoxGFX, con trabajo continuo después del lanzamient
 
 <sub><b>LAS HERRAMIENTAS CAMBIAN. EL CRITERIO PERMANECE.</b></sub>
 
-![.NET](https://img.shields.io/badge/.NET-1F2937?style=flat-square) ![C#](https://img.shields.io/badge/C%23-1F2937?style=flat-square) ![Angular](https://img.shields.io/badge/Angular-1F2937?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-1F2937?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-1F2937?style=flat-square) ![React](https://img.shields.io/badge/React-1F2937?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL_Server-1F2937?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2937?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-1F2937?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-1F2937?style=flat-square)
+![.NET](assets/badges/net.svg) ![C#](assets/badges/csharp.svg) ![Angular](assets/badges/angular.svg) ![TypeScript](assets/badges/typescript.svg) ![Next.js](assets/badges/next-js.svg) ![React](assets/badges/react.svg) ![SQL Server](assets/badges/sql-server.svg) ![PostgreSQL](assets/badges/postgresql.svg) ![Azure](assets/badges/azure.svg) ![Docker](assets/badges/docker.svg)
 
 <sub>Respaldado por más de 15 años de experiencia empresarial con .NET y Angular en proyectos de aerolíneas, banca, seguros, retail y e-commerce.</sub>
 
@@ -116,7 +116,7 @@ Sitio web entregado por GrayFoxGFX, con trabajo continuo después del lanzamient
 
 Cuéntanos qué tienes en mente. Hablemos de cómo hacerlo realidad.
 
-[![Cuéntanos tu proyecto](https://img.shields.io/badge/Cuéntanos_tu_proyecto_→-2565D7?style=for-the-badge)](https://grayfoxgfx.com/es/contact)
+[![Cuéntanos tu proyecto](assets/badges/cuentanos-tu-proyecto.svg)](https://grayfoxgfx.com/es/contact)
 
 <br />
 
